@@ -1,0 +1,13 @@
+.vscode/
+
+# Local build outputs from compiling single-file exercises.
+/binary_search
+/selection_sort
+/hash_table
+/quicksort
+/bfs
+/dfs
+/bst
+/recursion
+/main
+*.out
